@@ -8,7 +8,7 @@ class SFWebAutoTestDemo(object):
     '''
     classdocs
     '''
-
+    test = 0
 
     def __init__(self, params):
         '''
